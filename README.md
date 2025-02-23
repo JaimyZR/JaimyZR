@@ -1,0 +1,28 @@
+# Hi, I'm Jaimy 👋
+
+Welcome to my personal repository! This is where I share my projects, experiments, and ideas in the world of software development, web development, and more.
+
+## 🚀 About Me
+I'm a tech enthusiast with a passion for creating new gadgets and building interesting projects. When I'm not coding, you can probably find me jamming to some good music or exploring new ideas for my next project.
+
+### 🔧 Skills & Technologies
+- **Learning**: HTML, CSS, JavaScript, Python
+- **Tools**: Visual Studio Code
+- **Other**: Web development
+
+## 🧰 My Projects
+Here are a few cool things I've been working on lately:
+
+- **HackNation_**: A community project focused on hacking, tech, and learning new things. It’s a place for like-minded people to come together and share their knowledge and ideas.
+- **H_TOOLS_**: A collection of useful tools and scripts for hackers, developers, and tech enthusiasts.
+- **3D Printing**: I'm working on building a small 3D printing business, **JaimyzPrintz**, where I offer pre-made prints and accessories.
+
+## 📚 Currently Learning
+I'm actively learning the following skills:
+- **Python**: For scripting and hardware control.
+- **Web Development**: HTML, CSS, and JavaScript to improve my web projects.
+
+## 🌱 Goals
+- **Build more projects** and improve my development skills.
+- **Launch my online store**, where I’ll sell 3D prints and gadgets.
+- **Collaborate with others** on open-source projects and share knowledge with the community.
