@@ -13,7 +13,7 @@ I'm a tech enthusiast with a passion for creating new gadgets and building inter
 ## 🧰 My Projects
 Here are a few cool things I've been working on lately:
 
-- **HackNation_**: A community project focused on hacking, tech, and learning new things.
+- **[HackNation_]**(https://discord.gg/PQs9fCN8zw): A community project focused on hacking, tech, and learning new things.
 - **3D Printing**: I'm working on building a small 3D printing business, **JaimyzPrintz**, where I offer pre-made prints and accessories.
 
 ## 📚 Currently Learning
